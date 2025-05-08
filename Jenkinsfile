@@ -115,7 +115,7 @@ pdfkit.from_file('test-results.html', 'test-results.pdf')
                     <p>Test reports are attached in both HTML and PDF format.</p>
                 """,
                 mimeType: 'text/html',
-                to: 'skisanth1114@gmail.com',
+                to: 'sujithv2412@gmail.com',
                 attachmentsPattern: 'test-results.html,test-results.pdf'
             )
         }
