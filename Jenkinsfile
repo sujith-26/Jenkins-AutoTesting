@@ -92,7 +92,7 @@ pdfkit.from_file('test-results.html', 'test-results.pdf')
                     <p>Test reports are attached in both HTML and PDF format.</p>
                 """,
                 mimeType: 'text/html',
-                to: 'sujithg.22it@kongu.edu',
+                to: 'sujithgopal99@gmail.com',
                 attachmentsPattern: 'test-results.html,test-results.pdf'
             )
         }
@@ -115,7 +115,7 @@ pdfkit.from_file('test-results.html', 'test-results.pdf')
                     <p>Test reports are attached in both HTML and PDF format.</p>
                 """,
                 mimeType: 'text/html',
-                to: 'sujithg.22it@kongu.edu',
+                to: 'sujithgopal99@gmail.com',
                 attachmentsPattern: 'test-results.html,test-results.pdf'
             )
         }
