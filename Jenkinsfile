@@ -5,7 +5,7 @@ pipeline {
         githubPush()
     }
 
-    environment {
+    environment {//
         VENV_PATH = 'venv'
     }
 
