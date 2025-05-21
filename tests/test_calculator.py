@@ -19,7 +19,7 @@ class TestCalculator:
             assert result == expected, f"{test_name} failed: Expected {expected}, got {result}"
 
     def test_add(self):
-        a, b = 1, 3
+        a, b = 1, 2
         test_name = "Addition"
         logger.info(f"Testing addition: {a} + {b}")
         start_time = time.time()
